@@ -51,7 +51,7 @@ class _MenuProductGroomingState extends State<MenuProductGrooming> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/logo.png'),
+              Image.asset('assets/logo.png', height: 100, width: 80),
               // Container(
               //     // color: Colors.white,
               //     child: Text(
@@ -111,7 +111,7 @@ class _MenuProductGroomingState extends State<MenuProductGrooming> {
                           return Column(
                             children: [
                               Container(
-                                height: 100,
+                                height: 120,
                                 width: 300,
                                 // color: Colors.amber,
                                 // decoration: BoxDecoration(),
@@ -128,7 +128,7 @@ class _MenuProductGroomingState extends State<MenuProductGrooming> {
                                             22.0, 0, 25.0, 22.0),
                                         width: double.infinity,
                                         // color: Colors.red,
-                                        height: 60,
+                                        height: 150,
                                         child: Column(
                                           mainAxisAlignment:
                                               MainAxisAlignment.center,
