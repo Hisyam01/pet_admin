@@ -58,13 +58,7 @@ class AdminPage extends StatelessWidget {
                       Row(
                         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                         children: <Widget>[
-                          GestureDetector(
-                            onTap: () {
-                              Navigator.push(
-                                  context, MaterialPageRoute(builder: (context) => UpdatePetShop()));
-                            },
-                            //Widget Pertama
-                            child: Column(
+                          Column(
                               mainAxisAlignment: MainAxisAlignment.center,
                               children: <Widget>[
                                 new Image.asset('assets/icons/updatepetshop.jpeg',
@@ -81,7 +75,6 @@ class AdminPage extends StatelessWidget {
                                 ),
                               ],
                             ),
-                          ),
                           //Widget Keuda
                           Column(
                             mainAxisAlignment: MainAxisAlignment.center,
