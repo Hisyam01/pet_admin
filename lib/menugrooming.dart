@@ -55,7 +55,7 @@ class _MenuGroomingState extends State<MenuGrooming> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/logo.png'),
+              Image.asset('assets/logo.png', height: 100, width: 80),
               // Container(
               //     // color: Colors.white,
               //     child: Text(

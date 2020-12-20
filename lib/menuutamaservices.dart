@@ -25,11 +25,11 @@ class MyHomePage extends StatelessWidget {
         children: [
           Container(
             color: HexColor('#8BCDCD'),
-            height: 130,
             width: double.infinity,
+            height: 130,
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
-              children: [Image.asset('assets/logo.png')],
+              children: [Image.asset('assets/logo.png', height: 100, width: 80)],
             ),
           ),
           Row(
@@ -79,6 +79,7 @@ class MyHomePage extends StatelessWidget {
               child: Column(
                 children: [
                   Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       IconButton(
                         icon: Image.asset('assets/MenuGrooming.png'),
@@ -107,6 +108,7 @@ class MyHomePage extends StatelessWidget {
                     ],
                   ),
                   Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       IconButton(
                         icon: Image.asset('assets/MenuVaksin.png'),
@@ -135,6 +137,7 @@ class MyHomePage extends StatelessWidget {
                     ],
                   ),
                   Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       IconButton(
                         icon: Image.asset('assets/MenuToys.png'),
@@ -163,6 +166,7 @@ class MyHomePage extends StatelessWidget {
                     ],
                   ),
                   Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       IconButton(
                         icon: Image.asset('assets/MenuKandang.png'),
