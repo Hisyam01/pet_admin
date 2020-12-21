@@ -1,0 +1,201 @@
+{
+  "project_info": {
+    "project_number": "348185877037",
+    "firebase_url": "https://pet-shop-83be5.firebaseio.com",
+    "project_id": "pet-shop-83be5",
+    "storage_bucket": "pet-shop-83be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348185877037:android:10ffa8cdc232996183b6a4",
+        "android_client_info": {
+          "package_name": "com.example.kelompok1g"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348185877037-rihj4maouem95o3jo5r8425rc6mf2ipv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUeCNQFmiT4MDl_ul6xQeIVcxhdrlxH6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348185877037-rihj4maouem95o3jo5r8425rc6mf2ipv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348185877037:android:08b8cf8d530c010083b6a4",
+        "android_client_info": {
+          "package_name": "com.example.reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348185877037-rihj4maouem95o3jo5r8425rc6mf2ipv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUeCNQFmiT4MDl_ul6xQeIVcxhdrlxH6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348185877037-rihj4maouem95o3jo5r8425rc6mf2ipv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348185877037:android:488e10ab5e772c5083b6a4",
+        "android_client_info": {
+          "package_name": "com.example.tubes_mobapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348185877037-rihj4maouem95o3jo5r8425rc6mf2ipv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUeCNQFmiT4MDl_ul6xQeIVcxhdrlxH6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348185877037-rihj4maouem95o3jo5r8425rc6mf2ipv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348185877037:android:629c66bc3d0c378183b6a4",
+        "android_client_info": {
+          "package_name": "com.mobapp.petshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348185877037-rihj4maouem95o3jo5r8425rc6mf2ipv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUeCNQFmiT4MDl_ul6xQeIVcxhdrlxH6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348185877037-rihj4maouem95o3jo5r8425rc6mf2ipv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348185877037:android:5ed78ab0c6b6149d83b6a4",
+        "android_client_info": {
+          "package_name": "roma.studio.flutterfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348185877037-urpss5cukb23seimmmb3shju3faftatl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "roma.studio.flutterfirebaseauth",
+            "certificate_hash": "5be3a2ec713c03e775da07284ebd95369dbad0cc"
+          }
+        },
+        {
+          "client_id": "348185877037-rihj4maouem95o3jo5r8425rc6mf2ipv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUeCNQFmiT4MDl_ul6xQeIVcxhdrlxH6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348185877037-rihj4maouem95o3jo5r8425rc6mf2ipv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348185877037:android:20320aafa967f21e83b6a4",
+        "android_client_info": {
+          "package_name": "sharan.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348185877037-nf9rbam5r2ilr5imgiv2m4h0c0bnnmou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sharan.flutter_chat_app",
+            "certificate_hash": "d4725ebb51cd84e203f032ce6c66efd340a25ea7"
+          }
+        },
+        {
+          "client_id": "348185877037-rihj4maouem95o3jo5r8425rc6mf2ipv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUeCNQFmiT4MDl_ul6xQeIVcxhdrlxH6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348185877037-rihj4maouem95o3jo5r8425rc6mf2ipv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
